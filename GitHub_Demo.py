@@ -6,3 +6,7 @@ for letter in "Germany":
 
 for letter in "Italy":
     print(letter)
+
+
+def f1():
+    pass
